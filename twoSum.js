@@ -1,3 +1,4 @@
+//just use a random js playground to run
 var twoSum = function(nums, target) {
     var output = []
     
